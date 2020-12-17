@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "217053529436",
+    "firebase_url": "https://fir-cruead.firebaseio.com",
+    "project_id": "fir-cruead",
+    "storage_bucket": "fir-cruead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217053529436:android:b3ffa03011e8f161f4ed99",
+        "android_client_info": {
+          "package_name": "com.example.firebasecruead"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217053529436-r0fedji8906f3etinr5ifndf7ljo5dav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasecruead",
+            "certificate_hash": "196c4ca75c82df10139ad61e52e84bc68cd990e4"
+          }
+        },
+        {
+          "client_id": "217053529436-mgbahioa3elhp9iross9gqb44u6d5aaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACWt6QI88jT7ybXWdRSLU8VtX_MCSrWxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217053529436-mgbahioa3elhp9iross9gqb44u6d5aaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
